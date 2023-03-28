@@ -43,6 +43,7 @@ class _MyHomePageState extends State<MyHomePage> {
         children: <Widget>[
           Image.asset(
             'images/img3.jpg',
+            height: 400,
           ),
           const SizedBox(height: 24),
           const Text(
