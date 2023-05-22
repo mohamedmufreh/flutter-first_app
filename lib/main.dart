@@ -25,14 +25,7 @@ class _MyAppState extends State<MyApp> {
         primaryTextTheme: ThemeData.dark().textTheme.apply(
               fontFamily: GoogleFonts.comfortaa().fontFamily,
             ),
-        // accentTextTheme: ThemeData.dark().textTheme.apply(
-        //       fontFamily: GoogleFonts.comfortaa().fontFamily,
-        //     ),
       ),
-      // theme: ThemeData(
-      //   brightness: Brightness.light,
-      //   fontFamily: GoogleFonts.comfortaa().fontFamily,
-      // ),
       theme: ThemeData(
         brightness: Brightness.dark,
         fontFamily: GoogleFonts.comfortaa().fontFamily,
